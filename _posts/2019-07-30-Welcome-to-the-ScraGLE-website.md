@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to the ScraGLE website"
-date: 2014-04-30
+date: 2019-07-30
 ---
 
 We've finally got around to creating a website for ScraGLE. The neat thing about it is that it's managed directly from within 
