@@ -1,2 +1,3 @@
 name: ScraGLE - Scratch 3 Game Development Made Easy
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
